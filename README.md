@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RihandParde
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on software development projects
+- 👀 I’m interested in Software Quality Assurance
+- 🌱 I’m currently learning AI/ML 
+- 💞️ I’m looking to collaborate on software testing projects
 - 📫 How to reach me: rihand.parde@gmail.com
 
 <!---
